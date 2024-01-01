@@ -27,7 +27,7 @@
 </div>
 
 
-<p >A Final Year Computer Science Undergraduate at National Institute of Technology Delhi who is a passionate Programmer , Full Stack Web Developer and ML Enthusiast.
+<p >A Second Year Electronics and Comunication Undergraduate at National Institute of Technology Delhi who is a passionate Programmer , Web Developer and ML Enthusiast.
 </p>
 
 
