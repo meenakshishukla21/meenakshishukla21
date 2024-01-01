@@ -1,6 +1,6 @@
 <h1 align="center">Hi all, I'm Meenakshi Shukla <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center"><p>
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer;I'm+a++Computer+Science+Undergraduate" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer;I'm+a++Electronics+Comunicatione+Undergraduate" />
   </p></h3>
 <div align="center">
 
